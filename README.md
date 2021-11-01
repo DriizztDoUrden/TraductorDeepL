@@ -2,7 +2,7 @@
 Traduce el contenido de las etiquetas &lt;string> del archivo string.xml en los proyectos de Android Studio.
 
 
-
+```
 Idiomas de entrada disponibles:
 BG: Bulgarian
 CS: Czech
@@ -56,3 +56,4 @@ SK: Slovak
 SL: Slovenian
 SV: Swedish
 ZH: Chinese
+```
