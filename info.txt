@@ -1,3 +1,5 @@
 necesitas instalar esta dependencia:
 
 pip install --upgrade deepl
+
+Ademas tienes que crear una carpeta con el nombre: xml
