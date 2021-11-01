@@ -1,0 +1,3 @@
+necesitas instalar esta dependencia:
+
+pip install --upgrade deepl
