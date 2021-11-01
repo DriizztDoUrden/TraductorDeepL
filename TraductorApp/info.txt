@@ -1,0 +1,7 @@
+Pon tu API_KEY en el codigo
+
+instala:
+pip install pyinstaller
+
+crea el .exe con:
+pyinstaller.exe --noconsole --onefile TraductorApp.py
